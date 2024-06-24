@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @owlkuo
-- 👀 I’m interested in electronics
+i wish i was an owl
